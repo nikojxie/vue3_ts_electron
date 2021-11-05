@@ -17,7 +17,7 @@ const routes: Array<RouteRecordRaw> = [
     path: "/user",
     name: "User",
     component: {
-      template: "<router-view></router-view>"
+      template: "<router-view></router-view>",
     },
     redirect: {
       path: "/user/login",
