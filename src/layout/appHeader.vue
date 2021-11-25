@@ -17,7 +17,7 @@ export default {
 
 <style lang="less">
 .app-header {
-  .app-header-container{
+  .app-header-container {
     width: 80%;
     min-width: 800px;
     h1 {

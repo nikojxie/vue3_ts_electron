@@ -21,8 +21,6 @@ export default {
 };
 </script>
 <style lang="less">
-  @import "./assets/less/app";
+@import "./assets/less/app";
 </style>
-<style>
-
-</style>
+<style></style>
