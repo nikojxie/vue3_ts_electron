@@ -10,9 +10,6 @@ export default defineComponent({
   setup() {
     console.log("setup");
   },
-  beforeCreate() {
-    console.log("beforeCreate");
-  },
 });
 </script>
 
